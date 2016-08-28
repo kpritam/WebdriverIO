@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+errorShots
+node_modules
+selenium-server-standalone-2.53.1.jar
+WebdriverIO.zip
