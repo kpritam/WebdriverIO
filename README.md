@@ -1,22 +1,25 @@
 # WebdriverIO
-Simple implementation of page object model automation framework using WebdriverIO, mocha(test runner) and chai assertion library.
+Simple implementation of page object model using 
+###WebdriverIO 
+###mocha
+###chai
 
-Prerequisites :
+##Prerequisites :
 
-1. Nodejs
+###1. Nodejs
 
-2. WebdriverIO 
+###2. WebdriverIO 
           
    npm install webdriverio
 
-3. Mocha
+###3. Mocha
    
    npm install mocha
 
-4. Chai
+###4. Chai
 
    npm install chai
 
-How to run :
+##How to run :
  
    ./node_modules/.bin/wdio wdio.conf.js
