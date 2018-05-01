@@ -1,25 +1,21 @@
 # WebdriverIO
-Simple implementation of page object model using 
-####WebdriverIO 
-####mocha
-####chai
+Simple implementation of page object model using `WebdriverIO` `mocha` `chai`
 
-##Prerequisites :
-
-###1. Nodejs
-
-###2. WebdriverIO 
-          
+## Prerequisites :
+  * Nodejs
+  * WebdriverIO
+```bash
    npm install webdriverio
-
-###3. Mocha
-   
+```
+  * Mocha
+```bash
    npm install mocha
-
-###4. Chai
-
+```
+  * Chai
+```bash
    npm install chai
-
-##How to run :
- 
+```
+## How to run :
+```bash
    ./node_modules/.bin/wdio wdio.conf.js
+```
